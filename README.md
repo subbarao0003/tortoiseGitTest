@@ -2,6 +2,9 @@
 This is Readme file.
 
 One more change.
+
+
+Single branch conflict resolution.
 Conflicting Change creation.
 
 
