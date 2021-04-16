@@ -6,3 +6,6 @@ Conflicting Change creation.
 
 
 Conflicting change to resolve.
+
+
+Single branch conflict creation.
