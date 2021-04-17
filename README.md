@@ -12,3 +12,5 @@ Conflicting change to resolve.
 
 
 Single branch conflict creation.
+
+Changes for new-feature branch which is in both local and remote.
